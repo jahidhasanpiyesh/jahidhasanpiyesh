@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/jahidhasanpiyesh](https://github.com/jahidhasanpiyesh)
 
-- 📝 I regularly write articles on [https://www.facebook.com/FOOLCODER](https://www.facebook.com/FOOLCODER)
+- 📝 I regularly write articles on [https://jahidhasanpiyesh.github.io/portfolio/blog.html](https://jahidhasanpiyesh.github.io/portfolio/blog.html)
 
 - 💬 Ask me about **Python, javascript, Django, SQL, MongoDB, PostgrSQL.**
 
