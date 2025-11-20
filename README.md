@@ -6,8 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidhasanpiyesh" alt="jahidhasanpiyesh" /></a> </p>
 
-- 🔭 I’m currently working on [Django-Image-Uploader-Download
-](https://github.com/jahidhasanpiyesh/Django-Image-Uploader-Download.git)
+- 🔭 I’m currently working on [ImageIQ](https://github.com/jahidhasanpiyesh/ImageIQ)
 
 - 🌱 I’m currently learning **Django, Google Recourse etc.**
 
