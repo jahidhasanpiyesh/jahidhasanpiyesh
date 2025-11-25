@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidhasanpiyesh" alt="jahidhasanpiyesh" /></a> </p>
 
-- 🔭 I’m currently working on [ConnectX](https://github.com/jahidhasanpiyesh/ConnectX.git)
+- 🔭 I’m currently working on [AutoAttend_AI](https://github.com/jahidhasanpiyesh/AutoAttend_AI.git)
 
 - 🌱 I’m currently learning **Django, Google Recourse etc.**
 
