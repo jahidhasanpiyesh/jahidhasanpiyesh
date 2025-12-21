@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Django, Google Recourse etc.**
 
-- 👨‍💻 All of my projects are available at [github.com/jahidhasanpiyesh](https://github.com/jahidhasanpiyesh)
+- 👨‍💻 All of my projects are available at [All Project](https://jahidhasanpiyesh.github.io/portfolio/portfolio.html)
 
 - 📝 I regularly write articles on [portfolio/blog](https://jahidhasanpiyesh.github.io/portfolio/blog.html)
 
