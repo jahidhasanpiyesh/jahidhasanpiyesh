@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [All Project](https://jahidhasanpiyesh.vercel.app/portfolio.html)
 
-- 📝 I regularly write articles on [portfolio/blog](https://jahidhasanpiyesh.vercel.app/blog.html)
+- 📝 I regularly write articles on [Blog](https://jahidhasanpiyesh.vercel.app/blog.html)
 
 - 💬 Ask me about **Python, javascript, Django, SQL, MongoDB, PostgrSQL.**
 
