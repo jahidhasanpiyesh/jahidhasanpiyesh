@@ -11,15 +11,15 @@
 
 - 🌱 I’m currently learning **Django, Google Recourse etc.**
 
-- 👨‍💻 All of my projects are available at [All Project](https://jahidhasanpiyesh.github.io/portfolio/portfolio.html)
+- 👨‍💻 All of my projects are available at [All Project](https://jahidhasanpiyesh.vercel.app/portfolio.html)
 
-- 📝 I regularly write articles on [portfolio/blog](https://jahidhasanpiyesh.github.io/portfolio/blog.html)
+- 📝 I regularly write articles on [portfolio/blog](https://jahidhasanpiyesh.vercel.app/blog.html)
 
 - 💬 Ask me about **Python, javascript, Django, SQL, MongoDB, PostgrSQL.**
 
 - 📫 How to reach me **www.linkedin.com/in/md-jahid-hasan-9418b9298 --- https://www.facebook.com/mdjahidhasan.piyesh --- https://www.instagram.com/jahidhasan.fc/**
 
-- 📄 Know about my experiences [Portfolio](https://jahidhasanpiyesh.github.io/portfolio/index.html)
+- 📄 Know about my experiences [Portfolio](https://jahidhasanpiyesh.vercel.app/)
 
 - ⚡ Fun fact **I Think Patience does not deceive people but gives the best gift at the right time!**
 
