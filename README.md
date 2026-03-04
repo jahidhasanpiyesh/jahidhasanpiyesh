@@ -1,41 +1,336 @@
-<h1 align="center">Hi 👋, I'm Jahid Hasan</h1>
-<h3 align="center">A passionate Backend developer from Bangladesh</h3>
+<div align="center">
 
-<img align="center" alt="coding" width="400" autoplay loop muted playsinline src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHU1MGtlbjZ6MGwyb2p1eGY2Z2YwemM3eGllN2ZyZDhjamo2ZGp3dCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Md.%20Jahid%20Hasan&fontSize=48&fontColor=ffffff&fontAlignY=35&desc=Software%20Engineer%20%7C%20Tech%20Lead%20%7C%20AI%20Integrator&descAlignY=55&descColor=a78bfa&animation=fadeIn" width="100%"/>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jahidhasanpiyesh&label=Profile%20views&color=0e75b6&style=flat" alt="jahidhasanpiyesh" /> </p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=A78BFA&center=true&vCenter=true&width=700&lines=Software+Engineer+%40+Zeron+Group;Multi-Project+Tech+Lead;AI+Integration+Specialist;Django+%7C+Python+%7C+DevOps+%7C+CI%2FCD;Building+Scalable+%26+Intelligent+Systems)](https://git.io/typing-svg)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jahidhasanpiyesh" alt="jahidhasanpiyesh" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working on [Universal-Translator-Web-App](https://github.com/jahidhasanpiyesh/Universal-Translator-Web-App)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/md-jahid-hasan-9418b9298)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5733?style=for-the-badge&logo=firefox&logoColor=white)](https://jahidhasanpiyesh.vercel.app/)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://fb.com/mdjahidhasan.piyesh)
+[![HackerRank](https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black)](https://www.hackerrank.com/jahidhasanpiyesh)
+[![Profile Views](https://komarev.com/ghpvc/?username=jahidhasanpiyesh&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/jahidhasanpiyesh)
 
-- 🌱 I’m currently learning **Django, Google Recourse etc.**
+</div>
 
-- 👨‍💻 All of my projects are available at [All Project](https://jahidhasanpiyesh.vercel.app/portfolio.html)
+---
 
-- 📝 I regularly write articles on [Blog](https://jahidhasanpiyesh.vercel.app/blog.html)
+## 🧠 About Me
 
-- 💬 Ask me about **Python, javascript, Django, SQL, MongoDB, PostgrSQL.**
+```python
+class JahidHasan:
+    role        = "Software Engineer @ Zeron Group"
+    location    = "F Haque Tower, Dhaka, Bangladesh 🇧🇩"
+    
+    expertise   = [
+        "Multi-Project Technical Leadership",
+        "AI & LLM Integration into Production Systems",
+        "CI/CD Pipeline Design & Automation",
+        "DevOps Engineering & Cloud Infrastructure",
+        "Scalable Backend Architecture (Django/Python)",
+    ]
+    
+    current_focus = [
+        "🤖 Integrating AI/ML into enterprise-level products",
+        "🔁 Designing robust CI/CD pipelines (GitHub Actions, Docker)",
+        "☁️  Cloud deployment with AWS & containerized services",
+        "📈 Leading cross-functional engineering teams",
+    ]
+    
+    philosophy  = "Patience does not deceive — it delivers the best gift at the right time."
+```
 
-- 📫 How to reach me **www.linkedin.com/in/md-jahid-hasan-9418b9298 --- https://www.facebook.com/mdjahidhasan.piyesh --- https://www.instagram.com/jahidhasan.fc/**
+---
 
-- 📄 Know about my experiences [Portfolio](https://jahidhasanpiyesh.vercel.app/)
+## 🏢 Professional Journey
 
-- ⚡ Fun fact **I Think Patience does not deceive people but gives the best gift at the right time!**
+<table>
+<tr>
+<td width="60%">
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/md-jahid-hasan-9418b9298" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="md-jahid-hasan-9418b9298" height="30" width="40" /></a>
-<a href="https://fb.com/mdjahidhasan.piyesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mdjahidhasan.piyesh" height="30" width="40" /></a>
-<a href="https://instagram.com/jahidhasan.fc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jahidhasan.fc" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jahidhasanpiyesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jahidhasanpiyesh" height="30" width="40" /></a>
-</p>
+**💼 Software Engineer — Zeron Group**
+`📍 Dhaka, Bangladesh | 2024 – Present`
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+- 🚀 Leading **multiple concurrent projects** as technical lead
+- 🤖 **Integrating AI/LLM** capabilities into production-grade applications
+- 🔁 Architecting **CI/CD pipelines** for automated testing & deployment
+- 🐳 Managing **DevOps workflows** with Docker & containerization
+- 👥 Mentoring junior engineers & conducting code reviews
+- 📐 Designing scalable **microservice-ready** backend architectures
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jahidhasanpiyesh&show_icons=true&locale=en&layout=compact" alt="jahidhasanpiyesh" /></p>
+</td>
+<td width="40%" align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jahidhasanpiyesh&show_icons=true&locale=en" alt="jahidhasanpiyesh" /></p>
+[![Zeron Group](https://img.shields.io/badge/Zeron%20Group-7c3aed?style=for-the-badge&logo=briefcase&logoColor=white)](https://zerongroup.com/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jahidhasanpiyesh&" alt="jahidhasanpiyesh" /></p>
+🌐 [zerongroup.com](https://zerongroup.com/)
+
+**Current Projects:**
+- Universal Translator App
+- AI Attendance System
+- Real-Time ConnectX Platform
+
+</td>
+</tr>
+</table>
+
+---
+
+## ⚙️ Tech Stack & Expertise
+
+### 🖥️ Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🧩 Frameworks & Libraries
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![Django REST](https://img.shields.io/badge/Django_REST-ff1709?style=for-the-badge&logo=django&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### 🤖 AI & Machine Learning
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Google AI](https://img.shields.io/badge/Google_AI-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🗄️ Databases
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+
+### 🔁 DevOps & CI/CD
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+<table>
+<tr>
+<td width="50%">
+
+### 🤖 [AI Attendance System](https://github.com/jahidhasanpiyesh/Attendance-Management-system-using-face-recognition-in-django)
+**Face Recognition · Django · OpenCV · Deep Learning**
+
+Real-time AI-powered attendance management using facial recognition. Automatically detects & marks attendance with deep learning models.
+
+`Python` `OpenCV` `Django` `AI/ML`
+
+</td>
+<td width="50%">
+
+### 💬 [ConnectX — Real-Time Platform](https://github.com/jahidhasanpiyesh/Real-Time-Chat-and-Video-Calling-Application-in-Django)
+**WebRTC · Django Channels · WebSockets**
+
+Full-featured communication platform with audio/video calls and real-time messaging — all in one Django app.
+
+`Django` `WebSockets` `JavaScript` `WebRTC`
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🌐 [Universal Translator App](https://github.com/jahidhasanpiyesh/Universal-Translator-Web-App)
+**Google Translate API · Django · 100+ Languages**
+
+Instant AI-powered translation across 100+ languages with a clean, responsive UI. Production-ready & cloud-deployed.
+
+`Django` `Google API` `Python` `HTML`
+
+</td>
+<td width="50%">
+
+### 🛒 [Django E-Commerce Platform](https://github.com/jahidhasanpiyesh/E-Commerce-Website)
+**Full-Stack · Payments · Admin Dashboard**
+
+Complete e-commerce solution with product management, cart system, and order processing built on Django's MVC architecture.
+
+`Django` `Python` `PostgreSQL` `HTML`
+
+</td>
+</tr>
+</table>
+
+> 📂 **View all projects →** [jahidhasanpiyesh.vercel.app/portfolio.html](https://jahidhasanpiyesh.vercel.app/portfolio.html)
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=jahidhasanpiyesh&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=ffffff"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jahidhasanpiyesh&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=ffffff"/>
+
+</div>
+
+<div align="center">
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=jahidhasanpiyesh&theme=tokyonight&hide_border=true&background=0d1117&stroke=a78bfa&ring=a78bfa&fire=ff6b6b&currStreakLabel=ffffff)](https://github.com/jahidhasanpiyesh)
+
+</div>
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=jahidhasanpiyesh&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 📈 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=jahidhasanpiyesh&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+## 📝 Latest Blog Posts
+
+> ✍️ I regularly write about Django, AI Integration, DevOps, and System Design.
+
+📖 **Visit my blog →** [jahidhasanpiyesh.vercel.app/blog.html](https://jahidhasanpiyesh.vercel.app/blog.html)
+
+---
+
+## 🚧 Currently Working On
+
+<div align="center">
+
+```text
+🔭  Universal Translator Web App     ████████████░░░░░░░░   60% — Adding AI language detection
+🤖  AI Integration @ Zeron Group     ███████████████░░░░░   75% — LLM pipeline optimization
+🔁  CI/CD Pipeline Overhaul          ████████░░░░░░░░░░░░   40% — GitHub Actions + Docker
+☁️   AWS Cloud Migration              ██████░░░░░░░░░░░░░░   30% — Containerized deployment
+```
+
+</div>
+
+---
+
+## 🤝 Let's Connect & Collaborate
+
+<div align="center">
+
+<a href="https://linkedin.com/in/md-jahid-hasan-9418b9298">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+<a href="mailto:jahidhasanpiyesh@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Drop%20a%20Mail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+<a href="https://jahidhasanpiyesh.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-Visit%20Now-FF5733?style=for-the-badge&logo=firefox&logoColor=white"/>
+</a>
+<a href="https://zerongroup.com/">
+  <img src="https://img.shields.io/badge/Zeron%20Group-My%20Workplace-7c3aed?style=for-the-badge&logo=briefcase&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+<table>
+<tr>
+<td align="center" width="33%">
+
+**🌐 Portfolio**
+[jahidhasanpiyesh.vercel.app](https://jahidhasanpiyesh.vercel.app/)
+
+</td>
+<td align="center" width="33%">
+
+**💼 LinkedIn**
+[md-jahid-hasan](https://linkedin.com/in/md-jahid-hasan-9418b9298)
+
+</td>
+<td align="center" width="33%">
+
+**🏢 Company**
+[Zeron Group](https://zerongroup.com/)
+
+</td>
+</tr>
+<tr>
+<td align="center">
+
+**📘 Facebook**
+[mdjahidhasan.piyesh](https://fb.com/mdjahidhasan.piyesh)
+
+</td>
+<td align="center">
+
+**📷 Instagram**
+[jahidhasan.fc](https://instagram.com/jahidhasan.fc)
+
+</td>
+<td align="center">
+
+**🏆 HackerRank**
+[jahidhasanpiyesh](https://www.hackerrank.com/jahidhasanpiyesh)
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jahidhasanpiyesh/jahidhasanpiyesh/output/github-contribution-grid-snake-dark.svg"/>
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jahidhasanpiyesh/jahidhasanpiyesh/output/github-contribution-grid-snake.svg"/>
+  <img alt="github-snake" src="https://raw.githubusercontent.com/jahidhasanpiyesh/jahidhasanpiyesh/output/github-contribution-grid-snake-dark.svg"/>
+</picture>
+
+> 💡 **To enable the snake animation**, add this GitHub Action to your profile repo:
+> `.github/workflows/snake.yml` → [Setup Guide](https://github.com/Platane/snk)
+
+</div>
+
+---
+
+## ☕ Support My Work
+
+<div align="center">
+
+*If my open-source projects have helped you in any way, a small gesture means a lot!*
+
+<br/>
+
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-Support%20My%20Work-FFDD00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://www.buymeacoffee.com/jahidhasanpiyesh)
+[![GitHub Sponsors](https://img.shields.io/badge/GitHub%20Sponsors-Sponsor%20Me-EA4AAA?style=for-the-badge&logo=github-sponsors&logoColor=white)](https://github.com/sponsors/jahidhasanpiyesh)
+
+<br/>
+
+*"Great software is built with patience, purpose, and passion."*
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer&fontSize=18&fontColor=a78bfa&animation=fadeIn&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20amazing%20together%20%F0%9F%9A%80&fontAlignY=55" width="100%"/>
+
+![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
+
+<sub>⭐ Star my repos if you find them useful — it motivates me to build more! ⭐</sub>
+
+</div>
