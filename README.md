@@ -329,8 +329,6 @@ Complete e-commerce solution with product management, cart system, and order pro
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=140&section=footer&fontSize=18&fontColor=a78bfa&animation=fadeIn&text=Thanks%20for%20visiting!%20Let%27s%20build%20something%20amazing%20together%20%F0%9F%9A%80&fontAlignY=55" width="100%"/>
 
-![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
-
 <sub>⭐ Star my repos if you find them useful — it motivates me to build more! ⭐</sub>
 
 </div>
