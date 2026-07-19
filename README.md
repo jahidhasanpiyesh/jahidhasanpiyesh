@@ -43,7 +43,7 @@ class JahidHasan:
 ## 🏢 Professional Journey
 
 **💼 Software Engineer — Zeron Group**
-`📍 Dhaka, Bangladesh | 2024 – 2026`
+`📍 Dhaka, Bangladesh | 2025 – 2026`
 
 - 🚀 Led **multiple concurrent projects** as technical lead
 - 💼 Built a **SaaS platform** from the ground up for enterprise clients
