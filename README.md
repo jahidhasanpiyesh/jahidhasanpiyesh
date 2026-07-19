@@ -20,7 +20,7 @@
 
 ```python
 class JahidHasan:
-    role        = "Software Engineer @ Zeron Group"
+    role          = "Software Engineer | Tech Lead (Open to New Opportunities)"
     location    = "F Haque Tower, Dhaka, Bangladesh 🇧🇩"
     
     expertise   = [
