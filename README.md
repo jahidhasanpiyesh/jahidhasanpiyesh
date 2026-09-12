@@ -14,9 +14,9 @@
 
 ## About Me
 
-Full-Stack Software Engineer with 3.5+ years of experience designing and delivering production systems end-to-end — from UI/UX planning and architecture through API design, deployment, and maintenance. Currently working across **Flutter (mobile)** and **Django REST Framework (backend)**, owning system architecture, frontend direction, and technical planning on live projects rather than just execution.
+Full-Stack Software Engineer with 3.5+ years of experience designing and delivering production systems end-to-end - from UI/UX planning and architecture through API design, deployment, and maintenance. Currently working across **Flutter (mobile)** and **Django REST Framework (backend)**, owning system architecture, frontend direction, and technical planning on live projects rather than just execution.
 
-Comfortable leading multi-project workstreams, planning UI/UX and frontend structure, making architecture and API design decisions, and mentoring engineers — with a strong grounding in scalable backend systems, CI/CD, and cloud infrastructure.
+Comfortable leading multi-project workstreams, planning UI/UX and frontend structure, making architecture and API design decisions, and mentoring engineers - with a strong grounding in scalable backend systems, CI/CD, and cloud infrastructure.
 
 **Core focus:** System Architecture · UI/UX & Frontend Planning · Mobile + Backend Full-Stack Delivery · AI/LLM Integration · DevOps & CI/CD
 
@@ -29,9 +29,9 @@ Comfortable leading multi-project workstreams, planning UI/UX and frontend struc
 
 - Architecting and building a **Flutter mobile application** backed by a **Django REST API**, owning both the mobile and backend layers
 - Planning **UI/UX flow and frontend structure** alongside backend architecture, ensuring design and API decisions stay aligned
-- Designing API contracts, data models, and system architecture ahead of implementation — planning-first rather than build-first
+- Designing API contracts, data models, and system architecture ahead of implementation - planning-first rather than build-first
 - Making technical decisions on project structure, state management, and backend scalability as part of the core engineering team
-- Working within a professional, process-driven delivery workflow — planning, architecture review, implementation, and iteration
+- Working within a professional, process-driven delivery workflow - planning, architecture review, implementation, and iteration
 
 **Software Engineer — Zeron Group**
 `Dhaka, Bangladesh | 2025 – August 2026`
@@ -39,25 +39,25 @@ Comfortable leading multi-project workstreams, planning UI/UX and frontend struc
 - Led **multiple concurrent projects** as technical lead
 - Built a **SaaS platform** from the ground up for enterprise clients
 - Delivered **multiple e-commerce platforms**, from concept to production launch
-- Designed and built a **full-scale internal CRM** for Zeron Group's own office operations — the company's official, live system
+- Designed and built a **full-scale internal CRM** for Zeron Group's own office operations - the company's official, live system
 - Integrated **AI/LLM** capabilities into production-grade applications
-- Owned the **full delivery lifecycle** — design, development, testing, code review, deployment, and post-release iteration
+- Owned the **full delivery lifecycle** - design, development, testing, code review, deployment, and post-release iteration
 - Managed **DevOps workflows & CI/CD pipelines** with Docker & GitHub Actions
 - Mentored junior engineers and reviewed code across the team
 
 **Key Projects Delivered:** SaaS Platform · Multiple E-Commerce Solutions · Internal Office CRM · Universal Translator App · AI Attendance System · Real-Time ConnectX Platform
 
 <details>
-<summary><b>Spotlight — Internal Office Management CRM</b> (click to expand)</summary>
+<summary><b>Spotlight - Internal Office Management CRM</b> (click to expand)</summary>
 <br>
 
-Built entirely in-house for Zeron Group's own daily operations — the company's official, live production system. *(Private/internal project — no public link available.)*
+Built entirely in-house for Zeron Group's own daily operations - the company's official, live production system. *(Private/internal project - no public link available.)*
 
 - **11 role-based access levels** covering the full office hierarchy
 - Integrated **calling** functionality directly into the workflow
 - Built-in **SMS** notifications & alerts
 - **Salary & payroll management** module
-- Unified **office management** — attendance, tasks, communication & HR in one system
+- Unified **office management** - attendance, tasks, communication & HR in one system
 - Fully **deployed and used live** company-wide
 
 </details>
@@ -169,7 +169,7 @@ E-commerce solution with cart, product management, and order processing.
 
 > **View all projects →** [jahidhasanpiyesh.vercel.app/portfolio.html](https://jahidhasanpiyesh.vercel.app/portfolio.html)
 
-*(Note: this section still shows earlier projects — send over your latest/best work, including the current Flutter app, and I'll refresh this list.)*
+*(Note: this section still shows earlier projects - send over your latest/best work, including the current Flutter app, and I'll refresh this list.)*
 
 ---
 
